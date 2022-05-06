@@ -169,40 +169,28 @@ plt.show()
 ```
 ## Output:
 ### i)Image Translation
-<br>
 ![](c1.png)
-<br>
 
 ### ii) Image Scaling
-<br>
 ![](c2.png)
-<br>
 
 
 ### iii)Image shearing
-<br>
 ![](c3.png)
-<br>
 
 
 ### iv)Image Reflection
-<br>
 ![](c4.png)
-<br>
 
 
 
 ### v)Image Rotation
-<br>
 ![](c5.png)
-<br>
 
 
 
 ### vi)Image Cropping
-<br>
-![](c5.png)
-<br>
+![](c6.png)
 
 
 
